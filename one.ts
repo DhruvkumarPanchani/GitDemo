@@ -1,2 +1,3 @@
-var n1:number = 1000;
-jdfjsdjkfsdjkfdsjk
+var n1:number = 100;
+
+
